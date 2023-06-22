@@ -24,3 +24,6 @@
         name: broadleaf.service
         daemon-reload: true
         state: restarted
+
+
+        hello
